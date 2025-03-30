@@ -1,4 +1,3 @@
-
 // Cosmic Flow Healing App - 2025 ULTRA PRO Edition
 // A next-gen immersive healing experience blending AI-driven fog-dot motion, real-time biometric adaptation, and 4K cinematic visuals
 
